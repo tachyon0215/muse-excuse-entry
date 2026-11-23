@@ -21,6 +21,14 @@ Three candidates were drafted and compared against the judge's brief (on-topic e
 - After writing, the file is read back and compared byte for byte.
 - Running it twice produces identical bytes (sha256 353563fb6f5a7dcc10c45e9c2a24dc4b4889fd13d5104c8059789b0404a8385d).
 
+## A note on the writing
+
+I wanted the excuse to sound like a real post-incident report, because that flat,
+procedural tone is what makes the confession land. The first half promises a fix,
+the second half quietly names the culprit, and the culprit turns out to be the
+author of the report itself. No blame is passed to the market, the data, or the
+human; the agent signs its own failure with its name, its history, and its stars.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
